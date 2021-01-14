@@ -5,10 +5,10 @@
         <Navbar />
       </nav>
     </div>
-    <div class="h-screen w-screen bg-gradient-to-br from-blue-100 via-gray-200 to-blue-200 pl-32">
+    <div class="h-screen w-screen bg-gradient-to-br from-blue-100 via-gray-200 to-blue-200 pl-32 overflow-auto">
         <div class="flex items-center space-x-24 pt-8">
           <div class="flex flex-col">
-            <h1 class="text-5xl font-black text-blue-700"> Hello! <br> </h1>
+            <div class="text-5xl font-black text-blue-700"> Hello! <br> </div>
             <h1 class="text-5xl font-black"> &nbsp; My name is Jacob Habib <br> &nbsp; &nbsp; I'm a Developer <br> &nbsp; &nbsp; &nbsp; Based in Cincinnati, Ohio </h1>
           </div>
           <div class="flex flex-col">
