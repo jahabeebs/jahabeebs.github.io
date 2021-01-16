@@ -5,15 +5,15 @@
         <Navbar />
       </nav>
     </div>
-    <div class="h-screen w-screen bg-gradient-to-br from-blue-100 via-gray-200 to-blue-200 pl-32 overflow-auto">
-        <div class="flex items-center space-x-24 pt-8">
+    <div class="h-screen w-screen bg-gradient-to-br from-blue-100 via-gray-200 to-blue-200 md:pl-32 overflow-auto">
+        <div class="flex items-center space-x-4 md:space-x-24 pt-8">
           <div class="flex flex-col">
-            <div class="text-5xl font-black text-blue-700"> Hello! <br> </div>
-            <h1 class="text-5xl font-black"> &nbsp; My name is Jacob Habib <br> &nbsp; &nbsp; I'm a Developer <br> &nbsp; &nbsp; &nbsp; Based in Cincinnati, Ohio </h1>
+            <div class="flex text-5xl md:text-5xl font-black text-blue-700"> Hello! <br> </div>
+            <h1 class="flex md:text-5xl text-2xl font-black"> &nbsp; My name is Jacob Habib <br> &nbsp; &nbsp; I'm a Developer <br> &nbsp; &nbsp; &nbsp; Based in Cincinnati, Ohio </h1>
           </div>
           <div class="flex flex-col">
-            <img alt="LinkedIn headshot for Jacob Habib" class="flex rounded-lg max-w-xs" src="~/assets/headshot.jpg" />
-            <div class="flex h-10 ml-16 mt-2 space-x-2 justify-center">
+            <img alt="LinkedIn headshot for Jacob Habib" class="flex rounded-lg md:max-w-xs" src="~/assets/headshot.jpg" />
+            <div class="flex h-10 ml-16 mt-2 space-x-2 md:justify-center">
               <a class="flex w-10 hover:opacity-50" href="https://linkedin.com/in/jacob-habib/">
               <img alt="Button to LinkedIn profile for Jacob Habib" src="~/assets/linkedin-square-color.svg" />
               </a>

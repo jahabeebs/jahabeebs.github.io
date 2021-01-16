@@ -1,6 +1,6 @@
 <template>
-  <nav class="flex justify-center w-screen my-4">
-  <div class="flex text-md md:text-lg space-x-3 md:space-x-12">
+  <nav class="flex justify-center w-screen my-3 md:my-4">
+  <div class="flex text-md md:text-lg space-x-4 md:space-x-12">
     <NuxtLink to="/" class="flex hover:text-blue-700">Home</NuxtLink>
     <NuxtLink to="/about" class="flex hover:text-blue-700">About</NuxtLink>
     <NuxtLink to="/projects" class="flex hover:text-blue-700">Projects</NuxtLink>
