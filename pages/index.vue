@@ -15,9 +15,9 @@
               <a class="flex w-10 hover:opacity-50" href="https://linkedin.com/in/jacob-habib/">
               <img alt="Button to LinkedIn profile for Jacob Habib" src="~/assets/linkedin-square-color.svg" />
               </a>
-              <a class="flex hover:opacity-50" href="mailto: habib.50@osu.edu">
+              <NuxtLink to="/contact" class="flex hover:opacity-50">
               <img alt="Button to email Jacob Habib" src="~/assets/envelope-line.svg" />
-              </a>
+              </NuxtLink>
             </div>
           </div>
         </div>
