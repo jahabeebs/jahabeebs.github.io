@@ -1,18 +1,18 @@
 <template>
-  <div class="container w-screen">
+  <div class="mx-screen">
       <nav class="flex">
         <Navbar />
       </nav>
-    <div class="h-screen w-screen bg-gradient-to-br from-blue-100 via-gray-200 to-blue-200 md:pl-32 overflow-auto">
-        <div class="flex md:items-center space-x-4 md:space-x-24 pt-8">
+    <div class="flex justify-center items-start h-screen md:pt-8 pt-4 bg-gradient-to-br from-blue-100 via-gray-200 to-blue-200">
+        <div class="flex md:items-center space-x-4 md:space-x-24">
           <div class="flex flex-col ml-2">
-            <div class="flex text-3xl md:text-6xl font-black text-blue-700 mr-20"> Hello! </div>
-            <h1 class="flex text-2xl md:text-5xl font-black"> &nbsp; My name is Jacob Habib <br> &nbsp; &nbsp; I'm a Developer <br> &nbsp; &nbsp; &nbsp; Based in Cincinnati, Ohio</h1>
+            <div class="flex text-2xl md:text-6xl font-black text-blue-700 pr-32"> Hello! </div>
+            <h1 class="flex text-2xl md:text-5xl font-black text-justify-center"> &nbsp; My name is Jacob Habib <br> &nbsp; &nbsp; I'm a Developer <br> &nbsp; &nbsp; &nbsp; Based in Cincinnati, Ohio</h1>
           </div>
           <div class="flex flex-col">
             <img alt="LinkedIn headshot for Jacob Habib" class="flex rounded-lg md:w-80 md:max-w-xs mr-2" src="~/assets/headshot.jpg" />
-            <div class="flex h-8 ml-12 space-x-2 mt-1 md:h-10 md:ml-16 md:mt-2 md:space-x-2 md:justify-center">
-              <a class="flex w-10 hover:opacity-50" href="https://linkedin.com/in/jacob-habib/">
+            <div class="flex h-6 ml-8 space-x-2 mt-1 md:h-12 md:mt-2 md:space-x-2 md:justify-center">
+              <a class="flex w-16 hover:opacity-50" href="https://linkedin.com/in/jacob-habib/">
               <img alt="Button to LinkedIn profile for Jacob Habib" src="~/assets/linkedin-square-color.svg" />
               </a>
               <NuxtLink to="/contact" class="flex hover:opacity-50">

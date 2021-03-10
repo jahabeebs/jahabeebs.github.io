@@ -1,12 +1,12 @@
 <template>
-    <div class="container w-screen">
+    <div class="mx-screen">
         <div>
             <nav class="flex">
                 <Navbar />
             </nav>
         </div>
-        <div class="h-screen w-screen bg-gradient-to-br from-blue-100 via-gray-200 to-blue-200 md:pl-32 overflow-auto">
-            <h1 class="flex text-5xl md:mr-40 pt-32 justify-center"> Coming Soon </h1>
+        <div class="h-screen w-screen bg-gradient-to-br from-blue-100 via-gray-200 to-blue-200 overflow-visible">
+            <h1 class="flex text-5xl pt-32 justify-center"> Coming Soon </h1>
         </div>
     </div>
 </template>
