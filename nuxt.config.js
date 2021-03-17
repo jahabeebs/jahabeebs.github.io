@@ -1,7 +1,4 @@
 export default {
-  googleAnalytics: {
-    id: 'G-JG0QQN6JWW'
-  },
   // Target (https://go.nuxtjs.dev/config-target)
   target: 'static',
   router: {
@@ -36,8 +33,7 @@ export default {
   // Modules for dev and build (recommended) (https://go.nuxtjs.dev/config-modules)
   buildModules: [
     // https://go.nuxtjs.dev/tailwindcss
-    '@nuxtjs/tailwindcss',
-    '@nuxtjs/google-analytics'
+    '@nuxtjs/tailwindcss'
   ],
 
   // Modules (https://go.nuxtjs.dev/config-modules)
