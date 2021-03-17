@@ -1,3 +1,5 @@
+<template>
+    <div class="mx-screen">
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-JG0QQN6JWW"></script>
 <script>
@@ -7,8 +9,6 @@
 
   gtag('config', 'G-JG0QQN6JWW');
 </script>
-<template>
-    <div class="mx-screen">
         <div>
             <nav class="flex">
                 <Navbar />
