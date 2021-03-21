@@ -1,7 +1,6 @@
 <template>
   <div class="mx-screen">
-      <nav class="flex">
-        <!-- Global site tag (gtag.js) - Google Analytics -->
+                    <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-JG0QQN6JWW"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -10,6 +9,7 @@
 
   gtag('config', 'G-JG0QQN6JWW');
 </script>
+      <nav class="flex">
         <Navbar />
       </nav>
     <div class="flex justify-center items-start h-screen md:pt-8 pt-4 bg-gradient-to-br from-blue-100 via-gray-200 to-blue-200">

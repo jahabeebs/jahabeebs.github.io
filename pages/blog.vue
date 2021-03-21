@@ -1,7 +1,6 @@
 <template>
     <div class="mx-screen">
-        <div>
-            <!-- Global site tag (gtag.js) - Google Analytics -->
+                    <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-JG0QQN6JWW"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -10,6 +9,7 @@
 
   gtag('config', 'G-JG0QQN6JWW');
 </script>
+        <div>
             <nav class="flex">
                 <Navbar />
             </nav>
