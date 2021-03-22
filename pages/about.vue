@@ -32,7 +32,7 @@
             <p class="flex text-1xl md:text-2xl pt-4 md:pt-8 justify-center text-center text-blue-700 font-black"> Frameworks </p>
             <p class="flex text-1xl md:text-2xl justify-center text-center italic"> Spring Framework // Tailwind CSS // Vue.js // Nuxt.js </p>
             <p class="flex text-1xl md:text-2xl pt-4 md:pt-8 justify-center text-center text-blue-700 font-black"> CI/CD Tools </p>
-            <p class="flex text-1xl md:text-2xl justify-center text-center italic"> Git // TeamCity // Jira // Confluence </p>
+            <p class="flex text-1xl md:text-2xl justify-center text-center italic"> Git // TeamCity // Jira </p>
         </div>
     </div>
 </template>
