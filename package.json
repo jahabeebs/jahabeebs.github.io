@@ -10,7 +10,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "nuxt": "^2.14.6"
+    "nuxt": "^2.14.6",
+    "vue-gtag": "^1.11.0"
   },
   "devDependencies": {
     "@nuxtjs/google-analytics": "^2.4.0",

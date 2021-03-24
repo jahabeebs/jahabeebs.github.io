@@ -1,14 +1,5 @@
 <template>
     <div class="mx-screen">
-                    <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-JG0QQN6JWW"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-JG0QQN6JWW');
-</script>
         <div>
             <nav class="flex">
                 <Navbar />
@@ -30,9 +21,9 @@
             <p class="flex text-1xl md:text-2xl pt-4 md:pt-8 justify-center text-center text-blue-700 font-black"> Languages </p>
             <p class="flex text-1xl md:text-2xl justify-center text-center italic"> Java // JavaScript // SQL // CSS // HTML </p>
             <p class="flex text-1xl md:text-2xl pt-4 md:pt-8 justify-center text-center text-blue-700 font-black"> Frameworks </p>
-            <p class="flex text-1xl md:text-2xl justify-center text-center italic"> Spring Framework // Tailwind CSS // Vue.js // Nuxt.js </p>
+            <p class="flex text-1xl md:text-2xl justify-center text-center italic"> Spring // Tailwind CSS // Vue.js // Nuxt.js </p>
             <p class="flex text-1xl md:text-2xl pt-4 md:pt-8 justify-center text-center text-blue-700 font-black"> CI/CD Tools </p>
-            <p class="flex text-1xl md:text-2xl justify-center text-center italic"> Git // TeamCity // Jira </p>
+            <p class="flex text-1xl md:text-2xl justify-center text-center italic md:pb-4"> Git // TeamCity // Jira</p>
         </div>
     </div>
 </template>
