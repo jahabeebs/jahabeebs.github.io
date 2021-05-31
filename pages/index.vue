@@ -1,5 +1,5 @@
 <template>
-  <div class="mx-screen">
+  <div>
       <nav class="flex">
         <Navbar />
       </nav>
