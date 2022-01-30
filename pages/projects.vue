@@ -5,11 +5,12 @@
         <Navbar/>
       </nav>
     </div>
-    <div class="h-screen w-screen bg-gradient-to-br from-blue-100 via-gray-200 to-blue-200 overflow-visible">
+    <div class="md:h-full h-screen w-screen bg-gradient-to-br from-blue-100 via-gray-200 to-blue-200 overflow-visible">
       <h1 class="flex text-2xl md:text-3xl pt-4 font-black justify-center"> Projects </h1>
       <p
         class="flex text-1xl md:text-2xl pt-4 md:pt-8 justify-center text-center text-blue-700 font-black hover:text-blue-900 italic">
-        <a href="https://cmarketprice.com"> Commodity Market Prices (Under Construction) </a></p>
+        <a href="https://cmarketprice.com"> Commodity Market Prices</a></p>
+      <p class="flex text-1xl md:text-2xl justify-center italic text-center"> Winner of Cloudflare Summer Developer Challenge</p>
       <p class="flex text-1xl md:text-2xl justify-center text-center"> Technologies Used:</p>
       <p class="flex text-1xl md:text-2xl justify-center text-center"><a href="https://www.typescriptlang.org/" class="hover:text-blue-900 italic"> Typescript //</a>
        <a href="https://pages.cloudflare.com/" class="hover:text-blue-700 italic">&nbsp;Cloudflare Pages</a></p>
@@ -17,6 +18,11 @@
       <a
         href="https://www.chartjs.org/" class="hover:text-blue-700 italic">&nbspChart.js // </a> <a
       href="https://workers.cloudflare.com/" class="hover:text-blue-700 italic">&nbsp;Cloudflare Workers</a>
+      </p>
+      <p class="flex text-1xl md:text-2xl justify-center text-center">
+        <a
+          href="https://www.cloudflare.com/products/workers-kv/" class="hover:text-blue-700 italic">&nbspWorkers KV // </a> <a
+        href="https://developers.cloudflare.com/workers/platform/cron-triggers" class="hover:text-blue-700 italic">&nbsp;Cron Triggers </a>
       </p>
       <p
         class="flex text-1xl md:text-2xl pt-4 md:pt-8 justify-center text-center text-blue-700 font-black hover:text-blue-900 italic">
@@ -27,7 +33,7 @@
         //</a> <a href="https://www.thymeleaf.org/" class="hover:text-blue-700 italic">&nbsp;Thymeleaf&nbsp;//</a> <a
         href="https://www.h2database.com/html/main.html" class="hover:text-blue-700 italic">&nbsp;H2 Database Engine</a>
       </p>
-      <p class="flex text-1xl md:text-2xl pt-4 md:pt-8 justify-center text-center text-blue-700 font-black"> My
+      <p class="flex text-1xl md:text-2xl pt-4 md:pt-8 justify-center text-center text-blue-700 font-black"> This
         Website! </p>
       <p class="flex text-1xl md:text-2xl justify-center text-center"> Technologies Used:</p>
       <p class="flex text-1xl md:text-2xl justify-center text-center"><a href="https://www.nuxtjs.org"
