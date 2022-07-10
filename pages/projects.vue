@@ -5,7 +5,7 @@
         <Navbar/>
       </nav>
     </div>
-    <div class="md:h-full h-screen w-screen bg-gradient-to-br from-blue-100 via-gray-200 to-blue-200 overflow-visible">
+    <div class="h-full w-full bg-gradient-to-br from-blue-100 via-gray-200 to-blue-200 overflow-visible">
       <h1 class="flex text-2xl md:text-3xl pt-4 font-black justify-center"> Projects </h1>
       <h1 class="flex text-2xl md:text-3xl pt-4 font-black justify-center">(Newest to Oldest)</h1>
       <p
@@ -13,7 +13,7 @@
         Chainshot Projects (Web3)</p>
       <p class="flex text-1xl md:text-2xl justify-center text-center"><a
         href="https://github.com/jahabeebs/QR-Culture" class="hover:text-blue-700 italic">
-        ETH Global Hackathon & Chainshot Final Project: NFT Rewards Program </a></p>
+        Chainshot Final Project: NFT Rewards Program </a></p>
       <p class="flex text-1xl md:text-2xl justify-center text-center"><a
         href="https://github.com/jahabeebs/Chainlink-Practice" class="hover:text-blue-700 italic">
         Chainlink VFR & Price Feeds Experiment</a></p>
